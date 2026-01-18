@@ -1,0 +1,16 @@
+# Python 编译垃圾
+__pycache__/
+*.pyc
+
+# 环境变量 (绝对不能传！)
+.env
+
+# 向量数据库缓存
+chroma_db/
+
+# Mac 系统垃圾
+.DS_Store
+
+# 虚拟环境 (如果有)
+venv/
+.venv/

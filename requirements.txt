@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+langchain-core
+chromadb>=0.4.22
+rank_bm25
+sentence-transformers
+pypdf
+tavily-python
+streamlit>=1.30.0
+python-dotenv
+tiktoken
+unstructured
+faiss-cpu
